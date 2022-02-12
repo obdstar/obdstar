@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @obdstar
 - 👀 I’m interested in vehicle diagnostic
 - 🌱 I’m currently building obd scanner for all vehicles
-- 💞️ I’m looking to distribution
+- 💞️ I’m looking for distribution
 - 📫 How to reach me ...
 
 <!---
